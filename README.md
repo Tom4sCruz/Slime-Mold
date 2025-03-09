@@ -17,4 +17,5 @@ This repeats over and over again, resulting in patterns.
 
 ### References
 <a href="https://cargocollective.com/sagejenson/physarum">Sage Jenson's explanation</a>
+<br>
 <a href="https://uwe-repository.worktribe.com/OutputFile/980585">Original Paper, by Jeff Jones</a>
